@@ -1,0 +1,1 @@
+openai_token = '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'
